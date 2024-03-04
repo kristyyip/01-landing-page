@@ -1,0 +1,58 @@
+* {
+    font-family: 'Gill Sans', 'Gill Sans MT', sans-serif;
+    text-align: center;
+}
+
+header {
+    background-color: #8F796C;
+    height: 100px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+body {
+    margin-top: 100px;
+}
+nav {
+    text-align: right;
+    position: relative;
+    top: 40px;
+    right: 20px;
+}
+
+a {
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    border: 5px solid #ece7e5;
+    margin: 10px;
+}
+
+figcaption {
+    margin: 10px;
+}
+
+.welcome {
+    background-color: #d9d0cc;
+    padding: 10px;
+    border-top: 15px solid #ece7e5;
+    border-bottom: 15px solid #ece7e5;
+}
+
+#contact {
+    background-color: #b4a49a;
+    padding: 10px;
+}
+
+footer {
+    background-color: #8F796C;
+    color: white;
+    padding:2px;
+}
